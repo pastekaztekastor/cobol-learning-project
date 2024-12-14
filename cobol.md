@@ -29,6 +29,7 @@ niveau nom-de-variable PIC image [VALUE valeur-initiale].
 - **Niveau**: Indique la hiérarchie de la variable. Les niveaux couramment utilisés sont :
   - `01` à `49` : Pour les variables simples ou les structures imbriquées.
   - `77` : Pour les variables simples non structurées.
+  - `88` : pour les bool
 - **Nom de la variable**: Identifiant unique de la variable, composé de lettres, chiffres et du tiret (-). Le nom doit commencer par une lettre.
 - **PIC** (Picture) : Spécifie le type et la taille de la variable :
   - `9` : Caractère numérique (0-9).
@@ -44,6 +45,7 @@ Exemple
 77  age PIC 9(2) VALUE 25.
 77  nom PIC X(20) VALUE "Dupont".
 77  salaire PIC S9(5)V99 VALUE 1234.56.
+88  bool VALUE TRUE.
 
 01  personne.
     05  nom        PIC X(20).

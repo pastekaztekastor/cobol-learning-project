@@ -1,0 +1,32 @@
+# LISTE DES PROJET
+
+1) Affichage de texte simple : Créez un programme qui affiche "Hello, World !" à l'écran.
+2) Calcul de la somme de deux nombres : Demandez à l'utilisateur d'entrer deux nombres et affichez leur somme.
+3) Conversion Celsius-Fahrenheit : Convertissez une température donnée en degrés Celsius en degrés Fahrenheit.
+4) Vérification de la parité : Déterminez si un nombre entier donné est pair ou impair.
+5) Calcul de la factorielle : Calculez la factorielle d'un nombre entier positif fourni par l'utilisateur.
+6) Inversion d'une chaîne de caractères : Inversez et affichez une chaîne de caractères entrée par l'utilisateur.
+7) Recherche du plus grand nombre : Trouvez le plus grand nombre dans une liste de 10 entiers fournis par l'utilisateur.
+8) Tri à bulles : Implémentez l'algorithme de tri à bulles pour trier un tableau d'entiers.
+9) Calcul du nombre de voyelles : Comptez le nombre de voyelles dans une phrase donnée.
+10) Vérification de palindrome : Déterminez si une chaîne de caractères est un palindrome.$
+11) Conversion numérique en mots : Convertissez un nombre entier (par exemple, 123) en sa représentation en mots ("cent vingt-trois").
+12) Calcul de la moyenne : Calculez la moyenne d'une série de notes entrées par l'utilisateur.
+13) Recherche dichotomique : Implémentez l'algorithme de recherche binaire pour trouver un élément dans un tableau trié.
+14) Calcul des nombres premiers : Générez tous les nombres premiers jusqu'à un nombre donné en utilisant le crible d'Ératosthène.
+15) Simulation d'une file d'attente : Créez une structure de file d'attente et implémentez les opérations d'enfilement et de défilement.
+16) Calcul de la suite de Fibonacci : Générez les n premiers termes de la suite de Fibonacci.
+17) Conversion de bases numériques : Convertissez un nombre d'une base donnée (par exemple, binaire) vers une autre base (par exemple, décimale).
+18) Gestion d'un carnet d'adresses : Créez un programme qui permet d'ajouter, de supprimer et de rechercher des contacts dans un carnet d'adresses.
+19) Analyse de texte : Comptez le nombre de mots, de phrases et de paragraphes dans un texte donné.
+20) Calcul de l'écart-type : Calculez l'écart-type d'une série de nombres pour analyser leur dispersion.
+21) Gestion des stocks : Développez un système simple pour suivre les articles en stock, les entrées et les sorties.
+22) Calculatrice basique : Implémentez une calculatrice capable d'effectuer les quatre opérations arithmétiques de base.
+23) Gestion des étudiants : Créez un programme pour enregistrer les informations des étudiants et calculer leurs moyennes.
+24) Système de paie : Développez un programme pour calculer les salaires des employés en fonction des heures travaillées et du taux horaire.
+25) Gestion des prêts de bibliothèque : Suivez les livres empruntés, les dates de retour et les pénalités éventuelles.
+26) Analyse des ventes : Analysez les données de vente pour déterminer les produits les plus vendus et générer des rapports.
+27) Planification des rendez-vous : Créez un système pour gérer les rendez-vous, y compris l'ajout, la suppression et la modification.
+28) Jeu du nombre mystère : Développez un jeu où l'utilisateur doit deviner un nombre choisi aléatoirement par le programme.
+29) Gestion des réservations : Implémentez un système pour gérer les réservations de salles ou d'équipements.
+30) Système bancaire simplifié : Créez une application permettant de gérer les comptes clients, les dépôts, les retraits et les transferts, avec authentification sécurisée et génération de relevés.

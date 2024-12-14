@@ -7,6 +7,7 @@
 *.cgi
 *.com
 *.exe
+*.o
 *.gadget
 *.jar
 *.pif
